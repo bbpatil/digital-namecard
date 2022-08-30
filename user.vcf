@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:bbpatilcs@gmail.com
 TEL;type=WORK;type=VOICE:+91 9900291407
 item1.ADR;type=WORK;type=pref:;;1 SDMIT Campus\nUjire\, #;;;574240;Karnataka
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.sdmit.in
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
